@@ -1,0 +1,62 @@
+url: https://medium.com/towards-data-science/building-visual-agents-that-can-navigate-the-web-autonomously-1184efbfe895
+
+Sign up
+
+Sign in
+
+Sign up
+
+Sign in
+
+Member-only story
+
+Luís Roque
+
+Follow
+
+Towards Data Science
+
+--
+
+3
+
+Share
+
+This post was co-authored with Rafael Guedes.
+
+In the age of exponential growth in artificial intelligence, the topic of the moment is the rise of agentic AI. These AI systems leverage large language models (LLMs) to make decisions, plan, and collaborate with other agents or humans.
+
+When we wrap an LLM with a role, a set of tools, and a specific goal, we create what we call an agent. By focusing on a well-defined objective and having access to relevant APIs or external tools (like search engines, databases, or even browser interfaces — more about this later), agents can autonomously explore paths to achieve their targets. Thus, agentic AI opens up a new paradigm where multiple agents can tackle complex, multi-step workflows.
+
+John Carmack and Andrej Karpathy recently discussed a topic on X (formerly Twitter) that inspired this article. Carmack mentioned that AI-powered assistants can push applications to expose features through text-based interfaces. In this world, LLMs talk to a command-line interface wrapped under the graphical user interface (a.k.a. GUI), sidestepping some of the complexity of pure vision-based navigation (that exists because we humans need it). Karpathy raises the valid point that advanced AI systems can become better at…
+
+--
+
+--
+
+3
+
+Your home for data science and AI. The world’s leading publication for data science, data analytics, data engineering, machine learning, and artificial intelligence professionals.
+
+Founder & Partner @ ZAAI | VP Data & AI @ Marley Spoon | AI Advisor @ CableLabs | Ph.D. Researcher AI @ LIACC | Cofounder & ex-CEO @ HUUB (acquired by Maersk)
+
+Help
+
+Status
+
+About
+
+Careers
+
+Press
+
+Blog
+
+Privacy
+
+Terms
+
+Text to speech
+
+Teams
+
